@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Mundo!+👋;Eu+sou+Jean+Carlos!&center=true&size=30&theme=dracula">
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500">
-</p>
-
 <!-- Seção sobre mim -->
 ## 🚀 Sobre Mim
 Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e encontrar oportunidades de melhoria. Meu objetivo é contribuir para a entrega de produtos confiáveis e de alta qualidade.
@@ -20,7 +16,7 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 </div>
 
 <!-- Snake animation -->
-![Snake animation](https://github.com/JeanCarlos88/JeanCarlos88/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/JeanCarlos88/JeanCarlos88/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Tecnologias -->
 ## 🛠️ Tecnologias e Ferramentas
@@ -43,14 +39,26 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=Shopping-Control&theme=dracula" />
 </a>
 
-<!-- Experiência -->
+<!-- Experiência e GIF lado a lado -->
 ## 👨‍💻 Experiência com QA
-- ✅ Testes funcionais e de regressão
-- 🔄 Testes de integração
-- 📱 Testes em aplicações web e mobile
-- 🛠️ Automação de testes com Cypress
-- 📝 Criação de planos e casos de teste
-- 🐞 Gerenciamento de bugs
+
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>✅ Testes funcionais e de regressão</li>
+        <li>🔄 Testes de integração</li>
+        <li>📱 Testes em aplicações web e mobile</li>
+        <li>🛠️ Automação de testes com Cypress</li>
+        <li>📝 Criação de planos e casos de teste</li>
+        <li>🐞 Gerenciamento de bugs</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="250">
+    </td>
+  </tr>
+</table>
 
 <!-- Redes Sociais -->
 ## 📫 Contato
