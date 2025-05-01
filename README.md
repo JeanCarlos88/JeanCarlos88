@@ -54,7 +54,7 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
     <img src="https://img.shields.io/badge/80%25-F7DF1E?style=for-the-badge" alt="JavaScript 80%">
   </td>
   <td align="center">
-    <img width="65" height="65" src="https://www.edivaldobrito.com.br/wp-content/uploads/2019/05/nodejs-no-ubuntu.jpg" alt="Node.js"><br>
+    <img width="65" height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"><br>
     <strong>Node.js</strong><br>
     <img src="https://img.shields.io/badge/NÍVEL-20232a?style=for-the-badge" alt="NÍVEL">
     <img src="https://img.shields.io/badge/60%25-339933?style=for-the-badge" alt="Node.js 60%">
@@ -112,16 +112,6 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 </tr>
 </table>
 
-<!-- Seção de projetos em destaque -->
-## 💻 Projetos em Destaque
-
-<a href="https://github.com/JeanCarlos88/Cypress_Log_estruturado">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=Cypress_Log_estruturado&theme=dracula" />
-</a>
-<a href="https://github.com/JeanCarlos88/Shopping-Control">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=Shopping-Control&theme=dracula" />
-</a>
-
 <!-- Experiência e GIF -->
 ## 👨‍💻 Experiência com QA
 
@@ -137,9 +127,20 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 - 🛠️ Automação de testes com Cypress
 - 📝 Criação de planos e casos de teste
 - 🐞 Gerenciamento de bugs
+- 🔒 Testes de segurança com Owasp Zap
+- 🤖 Desenvolvimento de Extensão Chrome que gera casos de teste com IA
 
 <br clear="right"/>
 
+<!-- Seção de projetos em destaque -->
+## 💻 Projetos em Destaque
+
+<a href="https://github.com/JeanCarlos88/Cypress_Log_estruturado">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=Cypress_Log_estruturado&theme=dracula" />
+</a>
+<a href="https://github.com/JeanCarlos88/Shopping-Control">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=Shopping-Control&theme=dracula" />
+</a>
 
 
 <!-- Redes Sociais -->
