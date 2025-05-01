@@ -63,7 +63,7 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
     <img width="65" height="65" src="https://www.stickersdevs.com.br/wp-content/uploads/2023/03/cypress_sticker_adesivo-800x800.jpg" alt="Cypress"><br>
     <strong>Cypress</strong><br>
     <img src="https://img.shields.io/badge/NÍVEL-20232a?style=for-the-badge" alt="NÍVEL">
-    <img src="https://img.shields.io/badge/95%25-17202C?style=for-the-badge" alt="Cypress 95%">
+    <img src="https://img.shields.io/badge/85%25-00c0b5?style=for-the-badge" alt="Cypress 85%">
   </td>
   <td align="center">
     <img width="65" height="65" src="https://cdn.worldvectorlogo.com/logos/robot-framework.svg" alt="Robot Framework"><br>
