@@ -150,12 +150,10 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
   <a href="https://www.linkedin.com/in/jean-carlos-64b7251aa/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:seu-email@example.com">
+  <a href="jeancarlosdias88@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://instagram.com/jeancarlos88" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
+ 
 </div>
 
 <!-- Contador de Visitas -->
