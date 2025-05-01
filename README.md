@@ -14,7 +14,7 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 </div>
 
 <!-- Snake animation -->
-<!--![Snake animation](https://github.com/JeanCarlos88/JeanCarlos88/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JeanCarlos88/JeanCarlos88/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Tecnologias -->
 ## 🛠️ Tecnologias e Ferramentas
