@@ -32,46 +32,17 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 <!-- Tecnologias -->
 ## 🛠️ Tecnologias e Ferramentas
 
-<table>
-  <tr>
-    <td align="center">
-      <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"><br>
-      <span>HTML5</span>
-    </td>
-    <td align="center">
-      <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"><br>
-      <span>CSS3</span>
-    </td>
-    <td align="center">
-      <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"><br>
-      <span>JavaScript</span>
-    </td>
-    <td align="center">
-      <img alt="Cypress" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKQ7V32n674Gg7oInLiVmEsmM-obBT6lavg&s" title="Cypress"><br>
-      <span>Cypress</span>
-    </td>
-    <td align="center">
-      <img alt="Robot Framework" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/robot-framework.svg" title="Robot Framework"><br>
-      <span>Robot</span>
-    </td>
-    <td align="center">
-      <img alt="Appium" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/appium.svg" title="Appium"><br>
-      <span>Appium</span>
-    </td>
-    <td align="center">
-      <img alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"><br>
-      <span>Postman</span>
-    </td>
-    <td align="center">
-      <img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker"><br>
-      <span>Docker</span>
-    </td>
-    <td align="center">
-      <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git"><br>
-      <span>Git</span>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
+  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
+  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+  <img alt="Cypress" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKQ7V32n674Gg7oInLiVmEsmM-obBT6lavg&s" title="Cypress">
+  <img alt="Robot Framework" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/robot-framework.svg" title="Robot Framework">
+  <img alt="Appium" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/appium.svg" title="Appium">
+  <img alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman">
+  <img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker">
+  <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
+</div>
 
 <!-- Seção de projetos em destaque -->
 ## 💻 Projetos em Destaque
@@ -83,26 +54,20 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=Shopping-Control&theme=dracula" />
 </a>
 
-<!-- Experiência e GIF lado a lado -->
+<!-- Experiência e GIF -->
 ## 👨‍💻 Experiência com QA
 
-<table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>✅ Testes funcionais e de regressão</li>
-        <li>🔄 Testes de integração</li>
-        <li>📱 Testes em aplicações web e mobile</li>
-        <li>🛠️ Automação de testes com Cypress</li>
-        <li>📝 Criação de planos e casos de teste</li>
-        <li>🐞 Gerenciamento de bugs</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="250">
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="380">
+
+### Minhas Experiências:
+- ✅ Testes funcionais e de regressão
+- 🔄 Testes de integração
+- 📱 Testes em aplicações web e mobile
+- 🛠️ Automação de testes com Cypress
+- 📝 Criação de planos e casos de teste
+- 🐞 Gerenciamento de bugs
+
+<br clear="right"/>
 
 <!-- Redes Sociais -->
 ## 📫 Contato
