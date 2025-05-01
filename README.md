@@ -115,7 +115,7 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 <!-- Experiência e GIF -->
 ## 👨‍💻 Experiência com QA
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="250">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="380">
 
 <h3>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Minhas+Experiências:&center=false&size=22&width=250&height=40&color=bd93f9&vCenter=true">
