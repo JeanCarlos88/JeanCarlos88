@@ -13,14 +13,6 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos88&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<!-- 3D Contributions -->
-<div align="center">
-  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=JeanCarlos88&theme=dracula&hide_border=true"/>
-  <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Gráfico de Atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=JeanCarlos88&bg_color=282a36&color=ff6e96&line=ff79c6&point=bd93f9&area=true&hide_border=true" width="100%">
-  </a>
-</div>
 
 <!-- Snake animation -->
 <picture>
@@ -81,19 +73,7 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 
 <br clear="right"/>
 
-<!-- Visualização 3D alternativa que não precisa de workflow adicional -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JeanCarlos88&theme=dracula&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="Troféus do GitHub">
-</div>
 
-<!-- Skyline de contribuições -->
-<div align="center">
-  <a href="https://skyline.github.com/JeanCarlos88/2023" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Skyline-%23ffbf00?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline">
-    <br>
-    <em>Clique para ver minha visualização 3D do GitHub Skyline 2023! 🏙️</em>
-  </a>
-</div>
 
 <!-- Redes Sociais -->
 ## 📫 Contato
