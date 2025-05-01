@@ -1,4 +1,3 @@
-
 <!-- Título com animação -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Mundo!+👋;Eu+sou+Jean+Carlos!&center=true&size=30&theme=dracula">
@@ -19,14 +18,47 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 
 <!-- Tecnologias -->
 ## 🛠️ Tecnologias e Ferramentas
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cypress" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg">
-  <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/selenium.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div>
+
+<table>
+  <tr>
+    <td align="center">
+      <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"><br>
+      <span>HTML5</span>
+    </td>
+    <td align="center">
+      <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"><br>
+      <span>CSS3</span>
+    </td>
+    <td align="center">
+      <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"><br>
+      <span>JavaScript</span>
+    </td>
+    <td align="center">
+      <img alt="Cypress" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKQ7V32n674Gg7oInLiVmEsmM-obBT6lavg&s" title="Cypress"><br>
+      <span>Cypress</span>
+    </td>
+    <td align="center">
+      <img alt="Robot Framework" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/robot-framework.svg" title="Robot Framework"><br>
+      <span>Robot</span>
+    </td>
+    <td align="center">
+      <img alt="Appium" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/appium.svg" title="Appium"><br>
+      <span>Appium</span>
+    </td>
+    <td align="center">
+      <img alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"><br>
+      <span>Postman</span>
+    </td>
+    <td align="center">
+      <img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker"><br>
+      <span>Docker</span>
+    </td>
+    <td align="center">
+      <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git"><br>
+      <span>Git</span>
+    </td>
+  </tr>
+</table>
 
 <!-- Seção de projetos em destaque -->
 ## 💻 Projetos em Destaque
