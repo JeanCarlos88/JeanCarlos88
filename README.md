@@ -81,9 +81,18 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 
 <br clear="right"/>
 
-<!-- Calendário Isométrico 3D -->
+<!-- Visualização 3D alternativa que não precisa de workflow adicional -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JeanCarlos88/JeanCarlos88/main/metrics.plugin.isocalendar.svg" alt="Calendário de contribuições 3D">
+  <img src="https://github-profile-trophy.vercel.app/?username=JeanCarlos88&theme=dracula&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="Troféus do GitHub">
+</div>
+
+<!-- Skyline de contribuições -->
+<div align="center">
+  <a href="https://skyline.github.com/JeanCarlos88/2023" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Skyline-%23ffbf00?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline">
+    <br>
+    <em>Clique para ver minha visualização 3D do GitHub Skyline 2023! 🏙️</em>
+  </a>
 </div>
 
 <!-- Redes Sociais -->
