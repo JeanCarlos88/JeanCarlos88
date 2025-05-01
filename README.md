@@ -113,7 +113,7 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 </table>
 
 <!-- Experiência e GIF -->
-## 👨‍💻 Experiência com QA
+## 👨‍💻 Quality Assurance
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="380">
 
