@@ -147,7 +147,7 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 ## 📫 Contato
 
 <div>
-  <a href="https://www.linkedin.com/in/jeancarlos88" target="_blank">
+  <a href="https://www.linkedin.com/in/jean-carlos-64b7251aa/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:seu-email@example.com">
