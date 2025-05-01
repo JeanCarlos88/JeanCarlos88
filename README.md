@@ -13,6 +13,15 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos88&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<!-- 3D Contributions -->
+<div align="center">
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=JeanCarlos88&theme=dracula&hide_border=true"/>
+  <br/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Gráfico de Atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=JeanCarlos88&bg_color=282a36&color=ff6e96&line=ff79c6&point=bd93f9&area=true&hide_border=true" width="100%">
+  </a>
+</div>
+
 <!-- Snake animation -->
 <picture>
   <source
@@ -57,9 +66,12 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 <!-- Experiência e GIF -->
 ## 👨‍💻 Experiência com QA
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="380">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="250">
 
-### Minhas Experiências:
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Minhas+Experiências:&center=false&size=22&width=250&height=40&color=bd93f9&vCenter=true">
+</h3>
+
 - ✅ Testes funcionais e de regressão
 - 🔄 Testes de integração
 - 📱 Testes em aplicações web e mobile
@@ -68,6 +80,11 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 - 🐞 Gerenciamento de bugs
 
 <br clear="right"/>
+
+<!-- Calendário Isométrico 3D -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JeanCarlos88/JeanCarlos88/main/metrics.plugin.isocalendar.svg" alt="Calendário de contribuições 3D">
+</div>
 
 <!-- Redes Sociais -->
 ## 📫 Contato
