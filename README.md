@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!-- Título com animação -->
 <h1 align="center">
