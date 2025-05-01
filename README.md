@@ -2,11 +2,11 @@
 
 <!-- Título com animação -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Mundo!+👋;Eu+sou+Jean+Carlos!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Mundo!+👋;Eu+sou+Jean+Carlos!&center=true&size=30&theme=dracula">
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="500">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500">
 </p>
 
 <!-- Seção sobre mim -->
