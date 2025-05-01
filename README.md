@@ -22,77 +22,53 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 <tr>
   <td align="center">
     <img width="65" height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"><br>
-    <strong>HTML5</strong><br>
-    <img src="https://img.shields.io/badge/NÍVEL-20232a?style=for-the-badge" alt="NÍVEL">
-    <img src="https://img.shields.io/badge/90%25-FF5757?style=for-the-badge" alt="HTML5 90%">
+    <strong>HTML5</strong>
   </td>
   <td align="center">
     <img width="65" height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"><br>
-    <strong>CSS3</strong><br>
-    <img src="https://img.shields.io/badge/NÍVEL-20232a?style=for-the-badge" alt="NÍVEL">
-    <img src="https://img.shields.io/badge/85%25-57A5FF?style=for-the-badge" alt="CSS3 85%">
+    <strong>CSS3</strong>
   </td>
   <td align="center">
     <img width="65" height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"><br>
-    <strong>JavaScript</strong><br>
-    <img src="https://img.shields.io/badge/NÍVEL-20232a?style=for-the-badge" alt="NÍVEL">
-    <img src="https://img.shields.io/badge/80%25-F7DF1E?style=for-the-badge" alt="JavaScript 80%">
+    <strong>JavaScript</strong>
   </td>
   <td align="center">
     <img width="65" height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"><br>
-    <strong>Node.js</strong><br>
-    <img src="https://img.shields.io/badge/NÍVEL-20232a?style=for-the-badge" alt="NÍVEL">
-    <img src="https://img.shields.io/badge/60%25-339933?style=for-the-badge" alt="Node.js 60%">
+    <strong>Node.js</strong>
   </td>
   <td align="center">
     <img width="65" height="65" src="https://www.stickersdevs.com.br/wp-content/uploads/2023/03/cypress_sticker_adesivo-800x800.jpg" alt="Cypress"><br>
-    <strong>Cypress</strong><br>
-    <img src="https://img.shields.io/badge/NÍVEL-20232a?style=for-the-badge" alt="NÍVEL">
-    <img src="https://img.shields.io/badge/85%25-00c0b5?style=for-the-badge" alt="Cypress 85%">
+    <strong>Cypress</strong>
   </td>
   <td align="center">
     <img width="65" height="65" src="https://cdn.worldvectorlogo.com/logos/robot-framework.svg" alt="Robot Framework"><br>
-    <strong>Robot Framework</strong><br>
-    <img src="https://img.shields.io/badge/NÍVEL-20232a?style=for-the-badge" alt="NÍVEL">
-    <img src="https://img.shields.io/badge/85%25-00c0b5?style=for-the-badge" alt="Robot Framework 85%">
+    <strong>Robot Framework</strong>
   </td>
 </tr>
 <tr>
   <td align="center">
     <img width="65" height="65" src="https://cdn.worldvectorlogo.com/logos/appium.svg" alt="Appium"><br>
-    <strong>Appium</strong><br>
-    <img src="https://img.shields.io/badge/NÍVEL-20232a?style=for-the-badge" alt="NÍVEL">
-    <img src="https://img.shields.io/badge/75%25-662d91?style=for-the-badge" alt="Appium 75%">
+    <strong>Appium</strong>
   </td>
   <td align="center">
     <img width="65" height="65" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"><br>
-    <strong>Postman</strong><br>
-    <img src="https://img.shields.io/badge/NÍVEL-20232a?style=for-the-badge" alt="NÍVEL">
-    <img src="https://img.shields.io/badge/90%25-FF6C37?style=for-the-badge" alt="Postman 90%">
+    <strong>Postman</strong>
   </td>
   <td align="center">
     <img width="65" height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"><br>
-    <strong>Docker</strong><br>
-    <img src="https://img.shields.io/badge/NÍVEL-20232a?style=for-the-badge" alt="NÍVEL">
-    <img src="https://img.shields.io/badge/70%25-0db7ed?style=for-the-badge" alt="Docker 70%">
+    <strong>Docker</strong>
   </td>
   <td align="center">
     <img width="65" height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab CI/CD"><br>
-    <strong>GitLab CI/CD</strong><br>
-    <img src="https://img.shields.io/badge/NÍVEL-20232a?style=for-the-badge" alt="NÍVEL">
-    <img src="https://img.shields.io/badge/70%25-0db7ed?style=for-the-badge" alt="GitLab CI/CD 70%">
+    <strong>GitLab CI/CD</strong>
   </td>
   <td align="center">
     <img width="65" height="65" src="https://pbs.twimg.com/profile_images/1808582791661010944/cEr5Fbtn_400x400.jpg" alt="Locust"><br>
-    <strong>Locust</strong><br>
-    <img src="https://img.shields.io/badge/NÍVEL-20232a?style=for-the-badge" alt="NÍVEL">
-    <img src="https://img.shields.io/badge/70%25-65C97A?style=for-the-badge" alt="Locust 70%">
+    <strong>Locust</strong>
   </td>
   <td align="center">
     <img width="65" height="65" src="https://logos.bugcrowdusercontent.com/logos/2376/fdfa/651b17be/051e0245d787d1f71246d515e88a8564_zap256x256-oversize.png" alt="Owasp Zap"><br>
-    <strong>Owasp Zap</strong><br>
-    <img src="https://img.shields.io/badge/NÍVEL-20232a?style=for-the-badge" alt="NÍVEL">
-    <img src="https://img.shields.io/badge/80%25-FF7A00?style=for-the-badge" alt="Owasp Zap 80%">
+    <strong>Owasp Zap</strong>
   </td>
 </tr>
 </table>
