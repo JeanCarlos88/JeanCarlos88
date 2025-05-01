@@ -92,10 +92,10 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
     <img src="https://img.shields.io/badge/70%25-0db7ed?style=for-the-badge" alt="Docker 70%">
   </td>
   <td align="center">
-    <img width="65" height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"><br>
-    <strong>Git</strong><br>
+    <img width="65" height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab CI/CD"><br>
+    <strong>GitLab CI/CD</strong><br>
     <img src="https://img.shields.io/badge/NÍVEL-20232a?style=for-the-badge" alt="NÍVEL">
-    <img src="https://img.shields.io/badge/85%25-F05032?style=for-the-badge" alt="Git 85%">
+    <img src="https://img.shields.io/badge/70%25-0db7ed?style=for-the-badge" alt="GitLab CI/CD 70%">
   </td>
   <td align="center">
     <img width="65" height="65" src="https://pbs.twimg.com/profile_images/1808582791661010944/cEr5Fbtn_400x400.jpg" alt="Locust"><br>
