@@ -1,6 +1,6 @@
 <!-- Título com animação e logo QA -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/JeanCarlos88/JeanCarlos88/main/qa.png" width="60" height="60" alt="QA Logo" style="vertical-align: middle;">
+ 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🔍+Quality+Assurance;🤖+Analyst+Test+Automation+⚙️&center=true&size=30&theme=dracula" style="vertical-align: middle;">
 </h1>
 
@@ -122,10 +122,7 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=Shopping-Control&theme=dracula" />
 </a>
 
-<!-- Gráfico de Contribuições -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
-</div>
+
 
 
 <!-- Contador de Visitas -->
