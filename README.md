@@ -122,7 +122,10 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=Shopping-Control&theme=dracula" />
 </a>
 
-
+<div>
+ <p>
+</p>
+</div>
 
 
 <!-- Contador de Visitas -->
