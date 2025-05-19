@@ -40,7 +40,7 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 <table align="center" border="0" cellspacing="0" cellpadding="10">
 <tr>
   <td align="center">
-    <img width="65" height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"><br>
+    <img width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"><br>
     <strong>HTML5</strong>
   </td>
   <td align="center">
