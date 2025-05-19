@@ -78,7 +78,7 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
     <strong>Docker</strong>
   </td>
   <td align="center">
-    <img width="65" height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab CI/CD"><br>
+    <img width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab CI/CD"><br>
     <strong>GitLab CI/CD</strong>
   </td>
   <td align="center">
