@@ -6,7 +6,7 @@
 
 <!-- Redes Sociais -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/jean-carlos-64b7251aa/" target="_blank">
+  <a href="https://www.linkedin.com/in/jean-88-carlos" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:jeancarlosdias88@gmail.com" target="_blank">
