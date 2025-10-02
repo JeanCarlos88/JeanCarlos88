@@ -130,7 +130,7 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 
 <!-- Contador de Visitas -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/JeanCarlos88/count.svg" alt="Contador de Visitas">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JeanCarlos88.JeanCarlos88" alt="Contador de Visitas">
 </p>
 
 <p align="center">
