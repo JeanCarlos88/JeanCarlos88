@@ -1,4 +1,4 @@
-<!-- Título com animação e logo QA -->
+ <!-- Título com animação e logo QA -->
 <h1 align="center">
  
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🔍+Quality+Assurance;🤖+Analyst+Test+Automation+⚙️&center=true&size=30&theme=dracula" style="vertical-align: middle;">
