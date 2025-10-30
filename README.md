@@ -49,8 +49,8 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="48" height="48" style="margin: 6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="48" height="48" style="margin: 6px;"/>
   <img src="https://cdn.worldvectorlogo.com/logos/robot-framework.svg" title="Robot Framework" alt="Robot Framework" width="48" height="48" style="margin: 6px;"/>
-  <img src="https://www.zaproxy.org/img/zap256x256.png" title="OWASP ZAP" alt="OWASP ZAP" width="48" height="48" style="margin: 6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Newman (Postman CLI)" alt="Newman" width="48" height="48" style="margin: 6px;"/>
+  <img src="https://raw.githubusercontent.com/zaproxy/zaproxy/main/zap/src/main/resources/resource/zap256x256.png" title="OWASP ZAP" alt="OWASP ZAP" width="48" height="48" style="margin: 6px;"/>
+  <img src="https://raw.githubusercontent.com/postmanlabs/newman/develop/assets/newman-logo.png" title="Newman (Postman CLI)" alt="Newman" width="48" height="48" style="margin: 6px;"/>
 </p>
 
 <!-- Experiência e GIF -->
