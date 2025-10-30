@@ -37,60 +37,16 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 <!-- Tecnologias -->
 ## 🛠️ Tecnologias e Ferramentas
 
-<table align="center" border="0" cellspacing="0" cellpadding="10">
-<tr>
-  <td align="center">
-    <img width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"><br>
-    <strong>HTML5</strong>
-  </td>
-  <td align="center">
-    <img width="65" height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"><br>
-    <strong>CSS3</strong>
-  </td>
-  <td align="center">
-    <img width="65" height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"><br>
-    <strong>JavaScript</strong>
-  </td>
-  <td align="center">
-    <img width="65" height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"><br>
-    <strong>Node.js</strong>
-  </td>
-  <td align="center">
-    <img width="65" height="65" src="https://www.stickersdevs.com.br/wp-content/uploads/2023/03/cypress_sticker_adesivo-800x800.jpg" alt="Cypress"><br>
-    <strong>Cypress</strong>
-  </td>
-  <td align="center">
-    <img width="65" height="65" src="https://cdn.worldvectorlogo.com/logos/robot-framework.svg" alt="Robot Framework"><br>
-    <strong>Robot Framework</strong>
-  </td>
-</tr>
-<tr>
-  <td align="center">
-    <img width="65" height="65" src="https://cdn.worldvectorlogo.com/logos/appium.svg" alt="Appium"><br>
-    <strong>Appium</strong>
-  </td>
-  <td align="center">
-    <img width="65" height="65" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"><br>
-    <strong>Postman</strong>
-  </td>
-  <td align="center">
-    <img width="65" height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"><br>
-    <strong>Docker</strong>
-  </td>
-  <td align="center">
-    <img width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab CI/CD"><br>
-    <strong>GitLab CI/CD</strong>
-  </td>
-  <td align="center">
-    <img width="65" height="65" src="https://pbs.twimg.com/profile_images/1808582791661010944/cEr5Fbtn_400x400.jpg" alt="Locust"><br>
-    <strong>Locust</strong>
-  </td>
-  <td align="center">
-    <img width="65" height="65" src="https://logos.bugcrowdusercontent.com/logos/2376/fdfa/651b17be/051e0245d787d1f71246d515e88a8564_zap256x256-oversize.png" alt="Owasp Zap"><br>
-    <strong>Owasp Zap</strong>
-  </td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="48" height="48" style="margin: 6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="48" height="48" style="margin: 6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="48" height="48" style="margin: 6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="48" height="48" style="margin: 6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="48" height="48" style="margin: 6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="48" height="48" style="margin: 6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="48" height="48" style="margin: 6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="48" height="48" style="margin: 6px;"/>
+</p>
 
 <!-- Experiência e GIF -->
 ## 👨‍💻 Quality Assurance
