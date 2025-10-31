@@ -41,12 +41,12 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="48" height="48" style="margin: 6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="48" height="48" style="margin: 6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="48" height="48" style="margin: 6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="48" height="48" style="margin: 6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="48" height="48" style="margin: 6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="48" height="48" style="margin: 6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="48" height="48" style="margin: 6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="48" height="48" style="margin: 6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="48" height="48" style="margin: 6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="48" height="48" style="margin: 6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="48" height="48" style="margin: 6px;"/>
   <img src="https://cdn.worldvectorlogo.com/logos/robot-framework.svg" title="Robot Framework" alt="Robot Framework" width="48" height="48" style="margin: 6px;"/>
   <img src="https://raw.githubusercontent.com/zaproxy/zaproxy/main/zap/src/main/resources/resource/zap256x256.png" title="OWASP ZAP" alt="OWASP ZAP" width="48" height="48" style="margin: 6px;"/>
