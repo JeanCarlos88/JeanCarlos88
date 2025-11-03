@@ -94,10 +94,6 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" title="Ubuntu" alt="Ubuntu" width="40" height="40" style="margin: 6px;"/>
 </p>
 
-
-
-<br clear="right"/>
-
 <!-- Seção de projetos em destaque -->
 ## 💻 Projetos em Destaque
 
