@@ -37,7 +37,6 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 <!-- Tecnologias -->
 ## 🛠️ Tecnologias e Ferramentas
 
-<h4 align="center">Linguagens e Fundamentos</h4>
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" title="HTML5" alt="HTML5" width="40" height="40" style="margin: 6px;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" title="CSS3" alt="CSS3" width="40" height="40" style="margin: 6px;"/>
@@ -46,16 +45,14 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" title="Python" alt="Python" width="40" height="40" style="margin: 6px;"/>
 </p>
 
-<h4 align="center">APIs e Protocolos</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest_api.png" title="REST" alt="REST" width="40" height="40" style="margin: 6px;"/>
+  <img src="https://cdn.simpleicons.org/openapiinitiative" title="REST (OpenAPI)" alt="REST" width="40" height="40" style="margin: 6px;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png" title="GraphQL" alt="GraphQL" width="40" height="40" style="margin: 6px;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" title="WebSocket" alt="WebSocket" width="40" height="40" style="margin: 6px;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" title="Postman" alt="Postman" width="40" height="40" style="margin: 6px;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" title="Newman (Postman CLI)" alt="Newman" width="40" height="40" style="margin: 6px;"/>
 </p>
 
-<h4 align="center">Automação e Testes</h4>
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cypress.png" title="Cypress" alt="Cypress" width="40" height="40" style="margin: 6px;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/robot_framework.png" title="Robot Framework" alt="Robot Framework" width="40" height="40" style="margin: 6px;"/>
@@ -64,7 +61,6 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png" title="pytest" alt="pytest" width="40" height="40" style="margin: 6px;"/>
 </p>
 
-<h4 align="center">DevOps e CI/CD</h4>
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" title="Git" alt="Git" width="40" height="40" style="margin: 6px;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" title="GitHub" alt="GitHub" width="40" height="40" style="margin: 6px;"/>
@@ -74,29 +70,25 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" title="Jenkins" alt="Jenkins" width="40" height="40" style="margin: 6px;"/>
 </p>
 
-<h4 align="center">Cloud e Segurança</h4>
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" title="GCP" alt="GCP" width="40" height="40" style="margin: 6px;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/azure.png" title="Microsoft Azure" alt="Microsoft Azure" width="40" height="40" style="margin: 6px;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/owasp_zap.png" title="OWASP ZAP" alt="OWASP ZAP" width="40" height="40" style="margin: 6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Microsoft Azure" alt="Microsoft Azure" width="40" height="40" style="margin: 6px;"/>
+  <img src="https://raw.githubusercontent.com/zaproxy/zaproxy/main/zap/src/main/resources/resource/zap256x256.png" title="OWASP ZAP" alt="OWASP ZAP" width="40" height="40" style="margin: 6px;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" title="Kali Linux" alt="Kali Linux" width="40" height="40" style="margin: 6px;"/>
 </p>
 
-<h4 align="center">Mobile e IDEs</h4>
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" title="Android" alt="Android" width="40" height="40" style="margin: 6px;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ios.png" title="iOS" alt="iOS" width="40" height="40" style="margin: 6px;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" title="Android Studio" alt="Android Studio" width="40" height="40" style="margin: 6px;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vscode.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40" style="margin: 6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40" style="margin: 6px;"/>
 </p>
 
-<h4 align="center">Banco de Dados</h4>
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" title="MongoDB" alt="MongoDB" width="40" height="40" style="margin: 6px;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" title="MySQL" alt="MySQL" width="40" height="40" style="margin: 6px;"/>
 </p>
 
-<h4 align="center">Sistemas Operacionais</h4>
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" title="Windows" alt="Windows" width="40" height="40" style="margin: 6px;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" title="Linux" alt="Linux" width="40" height="40" style="margin: 6px;"/>
