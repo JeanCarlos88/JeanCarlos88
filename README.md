@@ -94,23 +94,7 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" title="Ubuntu" alt="Ubuntu" width="40" height="40" style="margin: 6px;"/>
 </p>
 
-<!-- Experiência e GIF -->
-## 👨‍💻 Quality Assurance
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="380">
-
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Minhas+Experiências:&center=false&size=22&width=250&height=40&color=bd93f9&vCenter=true">
-</h3>
-
-- ✅ Testes funcionais e de regressão
-- 🔄 Testes de integração
-- 📱 Testes em aplicações web e mobile
-- 🛠️ Automação de testes com Cypress
-- 📝 Criação de planos e casos de teste
-- 🐞 Gerenciamento de bugs
-- 🔒 Testes de segurança com Owasp Zap
-- 🤖 Desenvolvimento de Extensão Chrome que gera casos de teste com IA
 
 <br clear="right"/>
 
