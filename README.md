@@ -73,7 +73,6 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" title="GCP" alt="GCP" width="40" height="40" style="margin: 6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Microsoft Azure" alt="Microsoft Azure" width="40" height="40" style="margin: 6px;"/>
   <img src="https://raw.githubusercontent.com/zaproxy/zaproxy/main/zap/src/main/resources/resource/zap256x256.png" title="OWASP ZAP" alt="OWASP ZAP" width="40" height="40" style="margin: 6px;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" title="Kali Linux" alt="Kali Linux" width="40" height="40" style="margin: 6px;"/>
 
 
 
