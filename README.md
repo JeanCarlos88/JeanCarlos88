@@ -23,9 +23,7 @@
       <img src="https://img.shields.io/badge/-Steam-%23000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
     </a>
   </div>
-  <div style="display: inline-block; float: right; vertical-align: middle;">
-    <img src="PullShark (1).png" alt="PullShark" width="100" height="100">
-  </div>
+  
 </div>
 <br clear="both"/>
 
