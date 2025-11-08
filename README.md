@@ -5,23 +5,29 @@
 </h1>
 
 <!-- Redes Sociais -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/jean-88-carlos" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:jeancarlosdias88@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://wa.me/5585987919400" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-  </a>
-  <a href="https://discord.com/users/jeancarlos1079" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a>
-  <a href="https://steamcommunity.com/id/jeancarlos88/" target="_blank">
-    <img src="https://img.shields.io/badge/-Steam-%23000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
-  </a>
+<div>
+  <div style="display: inline-block; vertical-align: middle;">
+    <a href="https://www.linkedin.com/in/jean-88-carlos" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href="mailto:jeancarlosdias88@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="https://wa.me/5585987919400" target="_blank">
+      <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+    </a>
+    <a href="https://discord.com/users/jeancarlos1079" target="_blank">
+      <img src="https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+    </a>
+    <a href="https://steamcommunity.com/id/jeancarlos88/" target="_blank">
+      <img src="https://img.shields.io/badge/-Steam-%23000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
+    </a>
+  </div>
+  <div style="display: inline-block; float: right; vertical-align: middle;">
+    <img src="PullShark (1).png" alt="PullShark" width="100" height="100">
+  </div>
 </div>
+<br clear="both"/>
 
 <!-- Seção sobre mim -->
 ## 🚀 Sobre Mim
