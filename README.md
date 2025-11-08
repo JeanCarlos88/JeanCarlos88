@@ -6,7 +6,7 @@
 
 <!-- Redes Sociais -->
 <div>
-  <div style="display: inline-block; vertical-align: middle;">
+  <div align="center">
     <a href="https://www.linkedin.com/in/jean-88-carlos" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
