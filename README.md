@@ -83,7 +83,7 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" title="Android" alt="Android" width="40" height="40" style="margin: 6px;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ios.png" title="iOS" alt="iOS" width="40" height="40" style="margin: 6px;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" title="Android Studio" alt="Android Studio" width="40" height="40" style="margin: 6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40" style="margin: 6px;"/>
+  
 
 
 
@@ -93,7 +93,6 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 
 
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" title="Windows" alt="Windows" width="40" height="40" style="margin: 6px;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" title="Linux" alt="Linux" width="40" height="40" style="margin: 6px;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" title="Ubuntu" alt="Ubuntu" width="40" height="40" style="margin: 6px;"/>
 </p>
 
