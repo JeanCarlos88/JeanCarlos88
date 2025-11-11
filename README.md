@@ -100,7 +100,7 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 ## 💻 Projetos em Destaque
 
 <details>
-<summary><b>Clique para ver os Projetos </b></summary>
+<summary><h3><b>Clique para ver os Projetos </b></h3></summary>
 
 <a href="https://github.com/JeanCarlos88/Cypress_Log_estruturado">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=Cypress_Log_estruturado&theme=dracula" />
