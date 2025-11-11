@@ -38,7 +38,6 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 <!-- Tecnologias -->
 ## 🛠️ Tecnologias e Ferramentas
 
-<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" title="HTML5" alt="HTML5" width="40" height="40" style="margin: 6px;"/>
