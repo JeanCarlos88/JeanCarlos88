@@ -1,8 +1,5 @@
  <!-- Título com animação e logo QA -->
-<h1 align="center">
- 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🔍+Quality+Assurance;🤖+Analyst+Test+Automation+⚙️&center=true&size=30&theme=dracula" style="vertical-align: middle;">
-</h1>
+
 
 <!-- Redes Sociais -->
 <div>
@@ -103,7 +100,7 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=Cypress_Log_estruturado&theme=dracula" />
 </a>
 <a href="https://github.com/JeanCarlos88/Shopping-Control">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=Shopping-Control&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=HST_card_api&theme=dracula" />
 </a>
 
 <div>
