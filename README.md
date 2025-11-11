@@ -38,6 +38,8 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 <!-- Tecnologias -->
 ## 🛠️ Tecnologias e Ferramentas
 
+<br>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" title="HTML5" alt="HTML5" width="40" height="40" style="margin: 6px;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" title="CSS3" alt="CSS3" width="40" height="40" style="margin: 6px;"/>
@@ -93,8 +95,13 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" title="Ubuntu" alt="Ubuntu" width="40" height="40" style="margin: 6px;"/>
 </p>
 
+
+
 <!-- Seção de projetos em destaque -->
 ## 💻 Projetos em Destaque
+
+<details>
+<summary><b>Clique para ver os Projetos </b></summary>
 
 <a href="https://github.com/JeanCarlos88/Cypress_Log_estruturado">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=Cypress_Log_estruturado&theme=dracula" />
@@ -106,6 +113,9 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
 <br/><br/>
 
 ### 🔒 Projeto Privado
+
+
+<br>
 
 <table border="0">
 <tr>
@@ -133,6 +143,8 @@ Extensão Chrome de QA com apoio de IA para acelerar a criação e a execução 
 </td>
 </tr>
 </table>
+
+</details>
 
 
 <!-- Contador de Visitas -->
