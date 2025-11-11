@@ -2,7 +2,7 @@
 
 
 <!-- Redes Sociais -->
-<div>
+
   <div align="center">
     <a href="https://www.linkedin.com/in/jean-88-carlos" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -20,9 +20,8 @@
       <img src="https://img.shields.io/badge/-Steam-%23000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
     </a>
   </div>
-  
-</div>
-<br clear="both"/>
+ 
+
 
 <!-- Seção sobre mim -->
 ## 🚀 Sobre Mim
