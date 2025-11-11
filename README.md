@@ -103,22 +103,36 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=HST_card_api&theme=dracula" />
 </a>
 
-<!-- Projeto Privado -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; padding: 24px; margin: 20px 0; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
-  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div>
-      <h3 style="color: #fff; margin: 0 0 12px 0; font-size: 24px;">🔒 QA-CaseTest-IA</h3>
-      <p style="color: #e0e0e0; margin: 0 0 16px 0; font-size: 14px; line-height: 1.6;">Extensão Chrome de QA com apoio de IA para acelerar a criação e a execução de casos de teste. Foco em testes de APIs e web, geração inteligente de dados e análise de resultados.</p>
-      <!-- Projeto Privado - QA-CaseTest-IA -->
-![QA-CaseTest-IA - Extensão Chrome de QA com IA](Screenshot_4.png)
- 
-  </div>
-</div>
+<br/><br/>
 
-<div>
- <p>
-</p>
-</div>
+### 🔒 Projeto Privado
+
+<table border="0">
+<tr>
+<td width="50%" valign="top">
+
+**QA-CaseTest-IA**
+
+Extensão Chrome de QA com apoio de IA para acelerar a criação e a execução de casos de teste. Foco em testes de APIs e web, geração inteligente de dados e análise de resultados.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![IA/LLM](https://img.shields.io/badge/-IA/LLM-FF6B00?style=flat&logoColor=white)
+![API Testing](https://img.shields.io/badge/-API%20Testing-00B4CC?style=flat&logoColor=white)
+
+**Recursos principais:**
+- ✅ Geração assistida de casos de teste a partir de requisitos
+- ✅ Validações inteligentes e relatórios claros para stakeholders
+- ✅ Estrutura modular para fácil manutenção e escalabilidade
+
+</td>
+<td width="50%" valign="top">
+
+![QA-CaseTest-IA Screenshot](Screenshot_4.png)
+
+</td>
+</tr>
+</table>
 
 
 <!-- Contador de Visitas -->
