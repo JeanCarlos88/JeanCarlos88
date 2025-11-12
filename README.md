@@ -105,7 +105,7 @@ Olá! Sou um Analista de QA apaixonado por garantir a qualidade de software e en
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=Cypress_Log_estruturado&theme=dracula" />
 </a>
 <a href="https://github.com/JeanCarlos88/Shopping-Control">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=HST_card_api&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=QA-Tools&theme=dracula" />
 </a>
 
 <br/><br/>
