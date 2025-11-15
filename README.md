@@ -25,7 +25,7 @@
 
 <!-- Seção sobre mim -->
 ## 🚀 Sobre Mim
-<h4>Olá! Sou um Analista de QA com mais de 6 anos de experiência, apaixonado por garantir a qualidade de software e encontrar oportunidades de melhoria. Meu objetivo é contribuir para a entrega de produtos confiáveis e de alta qualidade.</h4>
+<h3>Olá! Sou um Analista de QA com mais de 6 anos de experiência, apaixonado por garantir a qualidade de software e encontrar oportunidades de melhoria. Meu objetivo é contribuir para a entrega de produtos confiáveis e de alta qualidade.</h3>
 
 <!-- GitHub Stats -->
 <div align="center">
