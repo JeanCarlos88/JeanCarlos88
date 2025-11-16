@@ -147,7 +147,7 @@ Extensão Chrome de QA com apoio de IA para acelerar a criação e a execução 
 
 <!-- Contador de Visitas -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JeanCarlos88.JeanCarlos88" alt="Contador de Visitas">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JeanCarlos88.JeanCarlos88" alt="Contador de Visitas" width="250" height="50">
 </p>
 
 <p align="center">
