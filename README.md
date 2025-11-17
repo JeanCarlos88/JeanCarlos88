@@ -1,5 +1,3 @@
- <!-- Título com animação e logo QA -->
-
 
 <!-- Redes Sociais -->
 
