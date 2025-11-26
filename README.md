@@ -24,10 +24,11 @@
 ## 🚀 Sobre Mim
 <h3>Olá! Sou um Analista de QA com mais de 6 anos de experiência, apaixonado por garantir a qualidade de software e encontrar oportunidades de melhoria. Meu objetivo é contribuir para a entrega de produtos confiáveis e de alta qualidade.</h3>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats (fallback cards for reliability) -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanCarlos88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos88&layout=compact&langs_count=8&theme=dracula&hide_border=true&cache_seconds=86400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeanCarlos88&theme=dracula" alt="Resumo de Perfil" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeanCarlos88&theme=dracula" alt="Estatísticas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JeanCarlos88&theme=dracula&utcOffset=-3" alt="Tempo Produtivo" />
 </div>
 
 
