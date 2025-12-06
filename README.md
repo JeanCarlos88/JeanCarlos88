@@ -1,4 +1,4 @@
-<!-- Redes Sociais lkjl -->
+<!-- Redes Sociais -->
 
   <div align="center">
     <a href="https://www.linkedin.com/in/jean-88-carlos" target="_blank">
@@ -99,12 +99,16 @@
 <details>
 <summary><h3><b>Clique para ver os Projetos </b></h3></summary>
 
+<!--
+  NOTA: O serviço github-readme-stats está temporariamente fora do ar (Erro 503).
+  As imagens abaixo podem aparecer quebradas até que o serviço normalize.
+-->
 <div align="center">
   <a href="https://github.com/JeanCarlos88/Cypress_Log_estruturado">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=Cypress_Log_estruturado&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=Cypress_Log_estruturado&theme=dracula" width="400" />
   </a>
   <a href="https://github.com/JeanCarlos88/QA-Tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=QA-Tools&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=QA-Tools&theme=dracula" width="400" />
   </a>
 </div>
 
