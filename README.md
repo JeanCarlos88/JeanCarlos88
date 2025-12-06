@@ -99,12 +99,14 @@
 <details>
 <summary><h3><b>Clique para ver os Projetos </b></h3></summary>
 
-<a href="https://github.com/JeanCarlos88/Cypress_Log_estruturado">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=Cypress_Log_estruturado&theme=dracula" />
-</a>
-<a href="https://github.com/JeanCarlos88/Shopping-Control">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=QA-Tools&theme=dracula" />
-</a>
+<div align="center">
+  <a href="https://github.com/JeanCarlos88/Cypress_Log_estruturado">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=Cypress_Log_estruturado&theme=dracula" />
+  </a>
+  <a href="https://github.com/JeanCarlos88/QA-Tools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=QA-Tools&theme=dracula" />
+  </a>
+</div>
 
 <br/><br/>
 
