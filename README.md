@@ -100,15 +100,15 @@
 <summary><h3><b>Clique para ver os Projetos </b></h3></summary>
 
 <!--
-  NOTA: O serviço github-readme-stats está temporariamente fora do ar (Erro 503).
-  As imagens abaixo podem aparecer quebradas até que o serviço normalize.
+  NOTA: O serviço github-readme-stats pode ficar instável (ex: Erro 503).
+  Contorno: usar as imagens OpenGraph do próprio GitHub (mais estáveis).
 -->
 <div align="center">
   <a href="https://github.com/JeanCarlos88/Cypress_Log_estruturado">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=Cypress_Log_estruturado&theme=dracula" width="400" />
+    <img src="https://opengraph.githubassets.com/1/JeanCarlos88/Cypress_Log_estruturado" width="400" alt="Cypress_Log_estruturado" />
   </a>
   <a href="https://github.com/JeanCarlos88/QA-Tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanCarlos88&repo=QA-Tools&theme=dracula" width="400" />
+    <img src="https://opengraph.githubassets.com/1/JeanCarlos88/QA-Tools" width="400" alt="QA-Tools" />
   </a>
 </div>
 
