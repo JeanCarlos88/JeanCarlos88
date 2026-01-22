@@ -1,4 +1,4 @@
-<!-- Redes Sociais kfghkjkhkkjhJkh -->
+<!-- Redes Sociais kfghkjkjhJkh -->
 
   <div align="center">
     <a href="https://www.linkedin.com/in/jean-88-carlos" target="_blank">
