@@ -1,4 +1,4 @@
-<!-- Redes Sociais kfjjhhgkh -->
+<!-- Redes Sociais kfjjgkh -->
 
   <div align="center">
     <a href="https://www.linkedin.com/in/jean-88-carlos" target="_blank">
@@ -31,7 +31,7 @@
 </div>
 
 
-<!-- Tecnologias -->
+<!-- Tecnolas -->
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
