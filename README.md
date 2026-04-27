@@ -1,4 +1,4 @@
-<!-- Redes Sociais kfjkçdfhhgdhjhhgkh -->
+<!-- Redes Sociais kfjjhhgkh -->
 
   <div align="center">
     <a href="https://www.linkedin.com/in/jean-88-carlos" target="_blank">
@@ -20,7 +20,6 @@
  
 
 
-<!-- Seção sobre mim -->
 ## 🚀 Sobre Mim
 <h3>Olá! Sou um Analista de QA com mais de 7 anos de experiência, apaixonado por garantir a qualidade de software e encontrar oportunidades de melhoria. Meu objetivo é contribuir para a entrega de produtos confiáveis e de alta qualidade.</h3>
 
